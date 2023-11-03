@@ -25,6 +25,14 @@ My toolkit includes a diverse set of languages, frameworks, and platforms that e
 - Scaling machine learning models with Kubernetes.
 - State-of-the-art models in NLP and computer vision.
 
+## 💡 Projects
+- [Disaster Response With Figure Eight (2021)](https://github.com/ChrystianGreen2/Disaster-Response-With-Figure-Eight)
+- [Dog Breed Image Classification System with Pytorch (2021)](https://github.com/ChrystianGreen2/Dog-Breed-Classification)
+- [Bike Share Demand Prediction using AutoML (2021)](https://github.com/ChrystianGreen2/Predict-Bike-Sharing-Demand-with-Autogluon)
+- [Deep Retrieval Recommendation Engine using Tensorflow Recommender (2022)](https://github.com/ChrystianGreen2/Recomendacao-utilizando-a-base-de-dados-do-MyAnimeList)
+- [Mask Object Detection using Pytorch (2022)](https://github.com/ChrystianGreen2/mask-object-detection)
+
+
 <!---
 ChrystianGreen2/ChrystianGreen2 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
