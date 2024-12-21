@@ -1,6 +1,6 @@
 # Welcome to My Profile! 👋
 
-Hello! I’m **@ChrystianGreen2**. I'm Senior Data Scientist at C6Bank
+Hello! I’m **@ChrystianGreen2**. I'm Senior Data Scientist at Nubank
 
 ## 🛠 Skills & Expertise
 - **Supervised and Unsupervised Learning**: Crafting algorithms that can predict outcomes and discover hidden structures in data.
